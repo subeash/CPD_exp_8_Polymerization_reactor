@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " An arrangement as in your experiment is at steady state, what will happen if you decrease the input flow rate?",
+      "question": " Molar mass of styrene is",
       "answers": {
-        "a": "The fluid level in tank decreases continuously",
-        "b": "The fluid level in tank increases continuously",
-        "c": "The fluid level in tank decreases and then becomes constant",
-        "d": "The fluid level in tank increases and then becomes constant"
+        "a": "104.15 g/mol",
+        "b": "106 g/mol",
+        "c": "28 g/mol",
+        "d": "78.96 g/mol"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,29 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An arrangement as in your experiment is at steady state, what will happen if you increase the input first and then increase the output flow rate but by the same amount?",
+      "question": "During a step growth polymerization,what would happen for an addition polymerisation ?",
       "answers": {
-        "a": "The height first increases and then decreases and reaches to it's original value",
-        "b": "The height first increases and then becomes constant but is more than the previous steady state's value",
-        "c": "The height first decreases and then increases and reaches to it's original value",
-        "d": "The height first decreases and then becomes constant but is less than the previous steady states value"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": " The steady state value of the height obtained as done practically is different from that calculated from equations with certain assumptions because",
-      "answers": {
-        "a": "The value of inflow is not exactly equal to the value of the outflow",
-        "b": "There are fluctuations in the value of the inflow",
-        "c": "There is a problem of meniscus of the fluid which leads to misjudgement of the value obtained",
-        "d": "ALL of the above"
+        "a": "Monomer molecules are still present in the final polymer.",
+        "b": "Monomer breaks down to form free radicals.",
+        "c": "Monomer breaks down to form ions.",
+        "d": "Monomer disappears early in the reaction."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -52,13 +35,47 @@
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
-       {
-      "question": " The work of a rotameter is to measure the",
+    {
+      "question": "  A co polymer can be found by:",
       "answers": {
-        "a": "Volumetric flow rate",
-        "b": "Mass flow rate",
-        "c": "Velocity",
-        "d": "None of these"
+        "a": "Polymerising two different monomers",
+        "b": "Polymerising two identical monomers",
+        "c": "Mixing two different polymers",
+        "d": " mixing two identical polymers"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+       {
+      "question": " The effect of chain transfer reagents is to:",
+      "answers": {
+        "a": "Increase the average degree of polymerization",
+        "b": "Reduce average degree of polymerization",
+        "c": " Increase the rate of polymerisation",
+        "d": "Reduce the rate of polymerisation"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " In ionic polymerisation 'living Polymer' is formed when",
+      "answers": {
+        "a": " termination reactions do not occur",
+        "b": "propagation reactions do not occur",
+        "c": "initiation reactions occur faster than termination reactions",
+        "d": "Amino acids are used as monomers"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -70,12 +87,12 @@
       "difficulty": "beginner"
     },
      {
-      "question": " At steady tank and coil arrangement as in the experiment, if the tank inlet temperature is increased then the coil outlet temperature:",
+      "question": "The free radical polymerisation, inhibitors",
       "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
+        "a": "stop the formation of free radicals",
+        "b": "increase the average degree of polymerisation",
+        "c": "Increase the rate of polymerisation",
+        "d": "Reduce average degree of polymerisation"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -83,16 +100,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
-     {
-      "question": "At steady tank and coil arrangement as in the experiment, if the coil inlet temperature is decreased then the tank outlet temperature:",
+      {
+      "question": "The free radical polymerisation, inhibitors",
       "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
+        "a": "stop the formation of free radicals",
+        "b": "increase the average degree of polymerisation",
+        "c": "Increase the rate of polymerisation",
+        "d": "Reduce average degree of polymerisation"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -100,7 +117,143 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "Which of the following is not a natural polymer",
+      "answers": {
+        "a": "Silk",
+        "b": "Starch",
+        "c": "Nylon",
+        "d": "protein"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "the monomer that is polymerized to make natural rubber is______________",
+      "answers": {
+        "a": "melamine",
+        "b": "ethylene",
+        "c": "isoprene",
+        "d": "adipic acid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "as a polymer becomes more crystalline_____________",
+      "answers": {
+        "a": " its melting point decreases",
+        "b": "its density decreases",
+        "c": " its yield stress decreases",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "In the context of biopolymers ,the opposite of the polymerization process is___",
+      "answers": {
+        "a": "sublimation",
+        "b": "condensation",
+        "c": "hydrolysis",
+        "d": " addition"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "the monomer that is polymerized to make natural rubber is",
+      "answers": {
+        "a": " melamine",
+        "b": "formaldehyde",
+        "c": "ethylene",
+        "d": "isoprene"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "the formation of a condensation polymer generally involves_____",
+      "answers": {
+        "a": "the addition of a plasticizer",
+        "b": "the mixing of sulfur with an addition polymer",
+        "c": "the elimination of a small molecule",
+        "d": "the vaporization of a plasticizer"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "which of the following,only______is an addition polymer",
+      "answers": {
+        "a": "polystyrene",
+        "b": "polyurethane",
+        "c": "polycarbonate",
+        "d": "nylon"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+       {
+      "question": "the empirical formula of an addition polymer______",
+      "answers": {
+        "a": "is the same as that of the monomer from which it is formed except that 2 H and 1 O have been added",
+        "b": "is the same as that of the monomer from which it is formed except that 2 H and 1 O have been subtracted",
+        "c": "is the same as that of the monomer from which it is formed",
+        "d": " is the same as that of the monomer from which it is formed except that 2 H and 1 C have been added"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
