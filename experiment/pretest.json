@@ -2,32 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "When steady state reaches in the tank then?",
+      "question": " Cstr works on the principle of:",
       "answers": {
-        "a": "The output velocity is always a constant",
-        "b": "The input velocity is always a constant",
-        "c": "The height of the fluid in the tank remains constant",
-        "d": "All of these"
+        "a": "Heat Transfer",
+        "b": "Mass transfer",
+        "c": "Both heat and mass transfer",
+        "d": "None"
       },
       "explanations": {
         "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "An arrangement as in your experiment is at steady state, what will happen if you increase the output flow rate?",
-      "answers": {
-        "a": "1The fluid level in tank decreases continuously",
-        "b": "The fluid level in tank decreases and then becomes constant",
-        "c": "The fluid level in tank increases continuously",
-        "d": "The fluid level in tank increases and then becomes constant"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -36,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The use of a thermocouple is to",
+      "question": "Accumulation of mass in the reactor is given by:",
       "answers": {
-        "a": "Measure absolute temperature",
-        "b": "Measure velocity at a particular point",
-        "c": "Measure temperature difference",
-        "d": "Measure average velocity at a particular plane"
+        "a": "Accumulation=[IN]-[Out]-[Generation]",
+        "b": "Accumulation=[IN]-[Out]+[Generation]",
+        "c": "Accumulation=[IN]+[Out]-[Generation]",
+        "d": "Accumulation=[Out]-[IN]+[Generation]"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Assumptions on which the CSTR works is/are:",
+      "answers": {
+        "a": " Uniform mixing of the cooling fluid and reactor fluid",
+        "b": "Heat transfer coefficient to the reactor jacket is constant",
+        "c": "Mean heat capacity is constant",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "In Arrhenius rate law k=Aexp(-Ea/RT) Ea represents.",
+      "answers": {
+        "a": "Frequency factor",
+        "b": "Activation energy",
+        "c": "Rate of the reaction",
+        "d": "Constant"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "What do you understand by quasi steady state.",
+      "answers": {
+        "a": " A permanent steady state",
+        "b": "An unstable state",
+        "c": "A state where the reaction rests for predestined time and then jumps back to steady state.",
+        "d": "None of these"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -53,12 +87,46 @@
       "difficulty": "beginner"
     },
       {
-      "question": "At steady tank and coil arrangement as in the experiment, if the coil inlet temperature is increased then the tank outlet temperature:",
+      "question": "Which of these sets can act as the control parameters of the polymerization of styrene?",
       "answers": {
-        "a": "Increases continuously",
-        "b": "Increases and then becomes constant above the previous steady state value",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
+        "a": "Feed rate of monomer,initiator,temperature of cooling fluid",
+        "b": "Activation energy of the reaction",
+        "c": "Density of reactor fluid and cooling fluid",
+        "d": "None of above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "What do you understand by the term polymerization",
+      "answers": {
+        "a": "Two or more simple compounds react to form a complex molecule",
+        "b": "Two or more monomers react in a chemical reaction to form a large polymer",
+        "c": "The large molecule formed by reacting of simple molecules generally containg a repeating structure",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "What are the steps of the radical polymerization",
+      "answers": {
+        "a": "Termination-propagation-initiation",
+        "b": "Initiation-propagation-termination",
+        "c": "Initiation-termination-propagation",
+        "d": "Propagation-initiation-termination"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -68,6 +136,125 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+      {
+      "question": "Heat transfer expression in the CSTR is given by",
+      "answers": {
+        "a": "Heat accumulation=[heat in]-[heat out]+[rate of heat generation]+[heat transfer]",
+        "b": "Heat accumulation=[heat out]-[heat in]+[rate of heat generation]+[heat transfer]",
+        "c": "Heat accumulation=[heat in]-[heat out]-[rate of heat generation]+[heat transfer]",
+        "d": "Heat accumulation=[heat in]-[heat out]+[rate of heat generation]-[heat transfer]"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "The order of the reaction of polymerization of styrene is",
+      "answers": {
+        "a": "Zero",
+        "b": "First",
+        "c": "Third",
+        "d": "Second"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "Middle Steady state among multiple steady states is generally",
+      "answers": {
+        "a": "unstable",
+        "b": " stable",
+        "c": "depends on time",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "In CSTR contents are",
+      "answers": {
+        "a": "well stirred throughout",
+        "b": "uniform throughout",
+        "c": "well stirred but not uniform",
+        "d": "well stirred and uniform throughout"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": " If the heat of reaction is positive then reaction is _________, and if negative then __________",
+      "answers": {
+        "a": "exothermic, endothermic",
+        "b": "exothermic, exothermic",
+        "c": "endothermic, exothermic",
+        "d": "endothermic, endothermic"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "Process model for the free radical solution polymerization of styrene in a jacketed cstr involves",
+      "answers": {
+        "a": "reaction kinetics",
+        "b": "material balance",
+        "c": "energy balance",
+        "d": "all of these"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+      {
+      "question": "Polysterene",
+      "answers": {
+        "a": "inexpensive and soft",
+        "b": "expensive and hard",
+        "c": "inexpensive and hard",
+        "d": "expensive and soft"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
   ]
 }
