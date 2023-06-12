@@ -246,7 +246,7 @@
         "b": "expensive and hard",
         "c": "inexpensive and hard",
         "d": "expensive and soft"
-      },
+      }
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
